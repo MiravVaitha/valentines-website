@@ -8,8 +8,8 @@ was made in a day using only basic web technologies.
 ---
 
 ## 🌐 Live Site
+https://miravvaitha.github.io/valentines-website/
 
-Live demo: https://miravvaitha.github.io/Valentines-website/
 ---
 
 ## ✨ Features
@@ -40,8 +40,8 @@ No frameworks. No libraries. Just simple web fundamentals.
 
 Clone the repository:
 
-    git clone https://github.com/MiravVaitha/Valentines-website.git
-    cd Valentines-website
+    git clone https://github.com/MiravVaitha/valentines-website.git
+    cd valentines-website
 
 Open the site locally by opening `index.html` in your browser:
 
@@ -85,7 +85,7 @@ Deployment steps:
 
 The site will be available at:
 
-https://miravvaitha.github.io/Valentines-website/
+https://miravvaitha.github.io/valentines-website/
 
 ---
 
